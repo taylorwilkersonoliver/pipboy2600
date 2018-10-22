@@ -1,0 +1,4 @@
+sudo apt-get update && dist-upgrade
+sudo apt-get install avahi-daemon python python-pygame python-imaging python-pip python-xmltodict python3-numpy gpsd gpsd-clients python-gps pytz
+sudo apt-get install python-rpi.gpio
+sudo easy_install -U picamera
